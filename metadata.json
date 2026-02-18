@@ -1,0 +1,7 @@
+{
+  "name": "EMAİHL Kütüphane Otomasyonu",
+  "description": "Elazığ Merkez Anadolu İmam Hatip Lisesi için geliştirilmiş, MongoDB ve Gemini AI destekli modern kütüphane yönetim sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
